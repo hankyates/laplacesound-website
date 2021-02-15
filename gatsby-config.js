@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://mousymagazine.org`,
-    title: 'Mousy Magazine',
+    siteUrl: `https://laplacesound.com`,
+    title: 'Laplace Sound',
     author: 'Hank Yates',
-    description: 'Ambient Post-Classical Electronic Music Composer',
+    description: 'Audio Mixing Engineer and Music Composer',
   },
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-16179822-3",
+        trackingId: "G-WEWZ6HVNK3",
         head: true,
         anonymize: true,
         respectDNT: true,

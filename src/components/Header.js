@@ -7,10 +7,10 @@ const Header = () => (
   <header id="header">
     <div className="inner">
       <span className="image avatar">
-        <a href="/"><img src={avatar} width={100} height={100} alt="Mousy Magazine Logo" /></a>
+        <a href="/"><img src={avatar} width={100} height={100} alt="Laplace Sound Logo" /></a>
       </span>
       <h1>
-        My name is <strong>Hank</strong>, and I compose Ambient and Post-Classical music as <strong>Mousy Magazine</strong>
+        My name is <strong>Hank</strong>, and I am an Audio Engineer
       </h1>
     </div>
     <Footer />
