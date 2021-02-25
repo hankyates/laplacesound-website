@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Player from '../components/Player'
 import Layout from '../components/layout'
-import ogImage from '../assets/images/bg-mobile.jpg'
+import ogImage from '../assets/images/bg.webp'
 
 export default function HomeIndex ({
   pageContext: {page},
