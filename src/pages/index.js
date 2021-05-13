@@ -41,13 +41,13 @@ export default function HomeIndex ({
                 <h2>Here are some of the things I do:</h2>
               </header>
               <ul className="home icons">
-                <li><a className="icon fa-headphones" href="/mixing"><span className="label">Mixing</span></a></li>
-                <li><a className="icon fa-music" href="/mastering"><span className="label">Mastering</span></a></li>
+                <li><a className="icon fa-headphones" href="/mixing-mastering"><span className="label">Mixing & Mastering</span></a></li>
                 <li><a className="icon fa-music" href="/composition"><span className="label">Composition</span></a></li>
                 {/*
+                <li><a className="icon fa-music" href="/mastering"><span className="label">Mastering</span></a></li>
                 <li><a className="icon fa-music" href="/clients"><span className="label">Clients</span></a></li>
                 */}
-                <li><a className="icon fa-music" href="/contact"><span className="label">Contact</span></a></li>
+                <li><a className="icon fa-volume-up" href="/contact"><span className="label">Contact</span></a></li>
               </ul>
             </section>
           </>}
